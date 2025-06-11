@@ -1,0 +1,649 @@
+[
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:47:18Z",
+    "caller_id": "212660000077",
+    "callee_id": "212660000050",
+    "duration_sec": 220,
+    "cell_id": "RABAT_05",
+    "technology": "4G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:14:44Z",
+    "caller_id": "212660000152",
+    "callee_id": "212660000160",
+    "duration_sec": 1710,
+    "cell_id": "CASABLANCA_12",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:46:29Z",
+    "caller_id": "212660000017",
+    "callee_id": "212660000052",
+    "duration_sec": 1542,
+    "cell_id": "CASABLANCA_12",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:19:12Z",
+    "caller_id": "212660000093",
+    "callee_id": "212660000063",
+    "duration_sec": 2435,
+    "cell_id": "RABAT_05",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:57:47Z",
+    "caller_id": "212660000122",
+    "callee_id": "212660000123",
+    "duration_sec": 648,
+    "cell_id": "CASABLANCA_12",
+    "technology": "3G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T17:47:11Z",
+    "user_id": "212660000171",
+    "data_volume_mb": 185.03,
+    "session_duration_sec": 3431,
+    "cell_id": "RABAT_05",
+    "technology": "4G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:00:22Z",
+    "user_id": "212660000005",
+    "data_volume_mb": 213.56,
+    "session_duration_sec": 6447,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:44:35Z",
+    "caller_id": "212660000103",
+    "callee_id": "212660000156",
+    "duration_sec": 1472,
+    "cell_id": "RABAT_05",
+    "technology": "3G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:01:47Z",
+    "user_id": "212660000050",
+    "data_volume_mb": 3.52,
+    "session_duration_sec": 5800,
+    "cell_id": "RABAT_05",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:16:16Z",
+    "caller_id": "212660000060",
+    "callee_id": "212660000159",
+    "duration_sec": 2068,
+    "cell_id": "CASABLANCA_12",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:32:00Z",
+    "caller_id": "212660000184",
+    "callee_id": "212660000100",
+    "duration_sec": 1305,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:12:05Z",
+    "caller_id": "212660000044",
+    "callee_id": "212660000130",
+    "duration_sec": 598,
+    "cell_id": "CASABLANCA_12",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:05:57Z",
+    "caller_id": "212660000135",
+    "callee_id": "212660000064",
+    "duration_sec": 3123,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:30:30Z",
+    "caller_id": "212660000188",
+    "callee_id": "212660000127",
+    "duration_sec": 94,
+    "cell_id": "RABAT_05",
+    "technology": "5G"
+  },
+  {
+    "record_type": "sms",
+    "timestamp": "2025-06-11T18:10:44Z",
+    "sender_id": "212660000072",
+    "receiver_id": "212660000148",
+    "cell_id": "RABAT_05",
+    "technology": "4G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:37:34Z",
+    "user_id": "212660000171",
+    "data_volume_mb": 325.43,
+    "session_duration_sec": 3856,
+    "cell_id": "CASABLANCA_12",
+    "technology": "4G"
+  },
+  {
+    "record_type": "sms",
+    "timestamp": "2025-06-11T18:01:13Z",
+    "sender_id": "212660000084",
+    "receiver_id": "212660000093",
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:41:32Z",
+    "caller_id": "212660000072",
+    "callee_id": "212660000118",
+    "duration_sec": 3447,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "5G"
+  },
+  {
+    "record_type": "sms",
+    "timestamp": "2025-06-11T18:31:58Z",
+    "sender_id": "212660000024",
+    "receiver_id": "212660000041",
+    "cell_id": "RABAT_05",
+    "technology": "3G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:11:29Z",
+    "user_id": "212660000049",
+    "data_volume_mb": 27.38,
+    "session_duration_sec": 6259,
+    "cell_id": "CASABLANCA_12",
+    "technology": "4G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T17:47:20Z",
+    "data_volume_mb": 492.87,
+    "session_duration_sec": 775,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "3G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T17:58:18Z",
+    "user_id": "212660000077",
+    "data_volume_mb": 232.69,
+    "session_duration_sec": 2324,
+    "cell_id": "CASABLANCA_12",
+    "technology": "2G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:21:51Z",
+    "user_id": "212660000018",
+    "data_volume_mb": 123.56,
+    "session_duration_sec": 6936,
+    "cell_id": "RABAT_05",
+    "technology": "4G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:49:01Z",
+    "caller_id": "212660000169",
+    "callee_id": "212660000101",
+    "duration_sec": 999,
+    "cell_id": "CASABLANCA_12",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:44:54Z",
+    "caller_id": "212660000079",
+    "callee_id": "212660000191",
+    "duration_sec": 275,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:01:24Z",
+    "caller_id": "212660000011",
+    "callee_id": "212660000164",
+    "duration_sec": 1430,
+    "cell_id": "CASABLANCA_12",
+    "technology": "2G"
+  },
+  {
+    "record_type": "sms",
+    "timestamp": "2025-06-11T18:05:16Z",
+    "sender_id": "212660000024",
+    "receiver_id": "212660000191",
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:10:06Z",
+    "caller_id": "212660000109",
+    "callee_id": "212660000122",
+    "duration_sec": 2387,
+    "cell_id": "RABAT_05",
+    "technology": "4G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:57:55Z",
+    "caller_id": "212660000016",
+    "callee_id": "212660000060",
+    "duration_sec": 2376,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "2G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:17:12Z",
+    "user_id": "212660000079",
+    "data_volume_mb": 154.37,
+    "session_duration_sec": 1156,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:34:59Z",
+    "caller_id": "212660000003",
+    "callee_id": "212660000076",
+    "duration_sec": 2854,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "4G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:50:13Z",
+    "caller_id": "212660000110",
+    "callee_id": "212660000106",
+    "duration_sec": 2712,
+    "cell_id": "CASABLANCA_12",
+    "technology": "3G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:11:37Z",
+    "user_id": "212660000112",
+    "data_volume_mb": 111.51,
+    "session_duration_sec": 1246,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "4G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:07:58Z",
+    "user_id": "212660000051",
+    "data_volume_mb": 132.52,
+    "session_duration_sec": 389,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "4G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T17:44:55Z",
+    "user_id": "212660000007",
+    "data_volume_mb": 240.18,
+    "session_duration_sec": 5289,
+    "cell_id": "RABAT_05",
+    "technology": "5G"
+  },
+  {
+    "record_type": "sms",
+    "timestamp": "2025-06-11T18:26:03Z",
+    "sender_id": "212660000199",
+    "receiver_id": "212660000006",
+    "cell_id": "RABAT_05",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:16:47Z",
+    "caller_id": "212660000082",
+    "callee_id": "212660000162",
+    "duration_sec": 2931,
+    "cell_id": "CASABLANCA_12",
+    "technology": "4G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:01:50Z",
+    "caller_id": "212660000118",
+    "callee_id": "212660000021",
+    "duration_sec": 6,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:17:23Z",
+    "caller_id": "212660000139",
+    "callee_id": "212660000012",
+    "duration_sec": 3520,
+    "cell_id": "RABAT_05",
+    "technology": "2G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T17:57:38Z",
+    "user_id": "212660000053",
+    "data_volume_mb": 35.14,
+    "session_duration_sec": 3654,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:52:56Z",
+    "caller_id": "212660000115",
+    "callee_id": "212660000008",
+    "duration_sec": 16,
+    "cell_id": "RABAT_05",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:35:34Z",
+    "caller_id": "212660000176",
+    "callee_id": "212660000101",
+    "duration_sec": 2682,
+    "cell_id": "CASABLANCA_12",
+    "technology": "3G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:30:39Z",
+    "user_id": "212660000098",
+    "data_volume_mb": 263.33,
+    "session_duration_sec": 5318,
+    "cell_id": "RABAT_05",
+    "technology": "5G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:01:49Z",
+    "user_id": "212660000188",
+    "data_volume_mb": 222.93,
+    "session_duration_sec": 741,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "2G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T17:55:54Z",
+    "user_id": "212660000005",
+    "data_volume_mb": 14.35,
+    "session_duration_sec": 3787,
+    "cell_id": "CASABLANCA_12",
+    "technology": "3G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:08:24Z",
+    "user_id": "212660000185",
+    "data_volume_mb": 42.37,
+    "session_duration_sec": 1126,
+    "cell_id": "RABAT_05",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:01:09Z",
+    "caller_id": "212660000168",
+    "callee_id": "212660000074",
+    "duration_sec": 2398,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "3G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T17:59:16Z",
+    "user_id": "212660000053",
+    "data_volume_mb": 342.83,
+    "session_duration_sec": 4723,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:42:22Z",
+    "caller_id": "212660000172",
+    "callee_id": "212660000138",
+    "duration_sec": 751,
+    "cell_id": "RABAT_05",
+    "technology": "2G"
+  },
+  {
+    "record_type": "sms",
+    "timestamp": "2025-06-11T18:15:49Z",
+    "sender_id": "212660000124",
+    "receiver_id": "212660000107",
+    "cell_id": "CASABLANCA_12",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:51:02Z",
+    "caller_id": "212660000071",
+    "callee_id": "212660000177",
+    "duration_sec": 1434,
+    "cell_id": "CASABLANCA_12",
+    "technology": "4G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:13:31Z",
+    "caller_id": "212660000187",
+    "callee_id": "212660000100",
+    "duration_sec": 2438,
+    "cell_id": "CASABLANCA_12",
+    "technology": "5G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:20:19Z",
+    "user_id": "212660000099",
+    "data_volume_mb": 23.27,
+    "session_duration_sec": 507,
+    "cell_id": "CASABLANCA_12",
+    "technology": "3G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:08:35Z",
+    "user_id": "212660000149",
+    "data_volume_mb": 393.49,
+    "session_duration_sec": 1556,
+    "cell_id": "RABAT_05",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:00:34Z",
+    "caller_id": "212660000145",
+    "callee_id": "212660000124",
+    "duration_sec": 95,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "4G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T17:46:05Z",
+    "caller_id": "212660000125",
+    "callee_id": "212660000151",
+    "duration_sec": 1879,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:32:48Z",
+    "caller_id": "212660000194",
+    "callee_id": "212660000060",
+    "duration_sec": 773,
+    "cell_id": "CASABLANCA_12",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:34:42Z",
+    "caller_id": "212660000149",
+    "callee_id": "212660000113",
+    "duration_sec": 413,
+    "cell_id": "RABAT_05",
+    "technology": "2G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T17:48:29Z",
+    "user_id": "212660000108",
+    "data_volume_mb": 359.78,
+    "session_duration_sec": 3230,
+    "cell_id": "RABAT_05",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:39:56Z",
+    "caller_id": "212660000189",
+    "callee_id": "212660000177",
+    "duration_sec": 95,
+    "cell_id": "CASABLANCA_12",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:14:15Z",
+    "caller_id": "212660000020",
+    "callee_id": "212660000043",
+    "duration_sec": 1515,
+    "cell_id": "RABAT_05",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:06:02Z",
+    "caller_id": "212660000005",
+    "callee_id": "212660000011",
+    "duration_sec": 2632,
+    "cell_id": "CASABLANCA_12",
+    "technology": "4G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:09:49Z",
+    "caller_id": "212660000056",
+    "callee_id": "212660000029",
+    "duration_sec": 623,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "4G"
+  },
+  {
+    "record_type": "sms",
+    "timestamp": "2025-06-11T17:58:45Z",
+    "sender_id": "212660000181",
+    "receiver_id": "212660000153",
+    "cell_id": "CASABLANCA_12",
+    "technology": "2G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:18:46Z",
+    "caller_id": "212660000128",
+    "callee_id": "212660000143",
+    "duration_sec": 37,
+    "cell_id": "CASABLANCA_12",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:14:04Z",
+    "caller_id": "212660000164",
+    "callee_id": "212660000030",
+    "duration_sec": 1054,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:19:37Z",
+    "caller_id": "212660000104",
+    "callee_id": "212660000199",
+    "duration_sec": 1455,
+    "cell_id": "CASABLANCA_12",
+    "technology": "3G"
+  },
+  {
+    "record_type": "sms",
+    "timestamp": "2025-06-11T18:34:23Z",
+    "sender_id": "212660000184",
+    "receiver_id": "212660000183",
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:08:19Z",
+    "caller_id": "212660000143",
+    "callee_id": "212660000026",
+    "duration_sec": 2005,
+    "cell_id": "ALHOCEIMA_23",
+    "technology": "2G"
+  },
+  {
+    "record_type": "data",
+    "timestamp": "2025-06-11T18:36:28Z",
+    "user_id": "212660000062",
+    "data_volume_mb": 345.75,
+    "session_duration_sec": 4918,
+    "cell_id": "CASABLANCA_12",
+    "technology": "3G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:06:01Z",
+    "caller_id": "ABC123XYZ",
+    "duration_sec": 2050,
+    "cell_id": "RABAT_05",
+    "technology": "4G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:28:07Z",
+    "caller_id": "212660000188",
+    "callee_id": "212660000039",
+    "duration_sec": 1450,
+    "cell_id": "CASABLANCA_12",
+    "technology": "5G"
+  },
+  {
+    "record_type": "voice",
+    "timestamp": "2025-06-11T18:26:43Z",
+    "caller_id": "212660000127",
+    "callee_id": "212660000184",
+    "duration_sec": 3226,
+    "cell_id": "RABAT_05",
+    "technology": "4G"
+  }
+]

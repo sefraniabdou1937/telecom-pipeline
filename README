@@ -1,0 +1,40 @@
+# CDR Mediation Pipeline
+
+## Prérequis
+- Java 8+
+- Apache Kafka
+- Apache Spark 3.x
+- Python 3.x
+
+## Installation
+1. Télécharger Kafka depuis https://kafka.apache.org/downloads
+2. Extraire l'archive
+3. Installer PySpark: `pip install pyspark`
+
+## Exécution
+1. Démarrer Zookeeper et Kafka
+2. Créer les topics Kafka
+3. Lancer le producteur de test
+4. Exécuter le script Spark
+5. Visualiser les résultats dans les consommateurs
+
+
+# Terminal 1 - Zookeeper
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
+# Terminal 2 - Serveur Kafka
+.\kafka-server-start.bat .\config\server.properties
+
+# Terminal 3 - Création des topics
+.\kafka-topics.bat --create --topic raw-cdr --partitions 1 --replication-factor 1 --bootstrap-server localhost:9092
+.\kafka-topics.bat --create --topic valid-cdr --partitions 1 --replication-factor 1 --bootstrap-server localhost:9092
+.\kafka-topics.bat --create --topic invalid-cdr --partitions 1 --replication-factor 1 --bootstrap-server localhost:9092
+# Terminal 5 - Consommateur valid-cdr
+.\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic valid-cdr --from-beginning
+
+# Terminal 6 - Consommateur invalid-cdr
+.\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic invalid-cdr --from-beginning
+
+
+Executer generateur
+spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.4.1 cdr_mediation.py
